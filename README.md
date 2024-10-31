@@ -5,4 +5,4 @@ Our work leverages machine learning models to interpret and assess legal languag
 
 # Related Datasets
 - Amazon Generalized Fairness Metrics
-- NYQ BBQ Datasets
+- NYQ BBQ Datasets: https://github.com/nyu-mll/BBQ
