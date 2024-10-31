@@ -1,4 +1,3 @@
-# relativity-1c
 # Background
 This project implements bias and sentiment analysis techniques on large language models, with a specific focus on legal documents and terminologies related to social justice. By analyzing these texts through advanced natural language processing (NLP) methods, we aim to uncover latent biases, sentiment trends, and linguistic patterns that may impact justice and representation within legal frameworks.
 
