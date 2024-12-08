@@ -4,5 +4,5 @@ This project implements bias and sentiment analysis techniques on large language
 Our work leverages machine learning models to interpret and assess legal language in ways that align with principles of fairness and equity. This approach helps in identifying biases that could influence judgments, policy-making, and legal discourse, paving the way for more balanced and inclusive legal narratives
 
 # Related Datasets
-- Amazon Generalized Fairness Metrics
+- Amazon Generalized Fairness Metrics: [Amazon Generalized Fairness Metrics](https://github.com/amazon-science/generalized-fairness-metrics/tree/main)
 - NYQ BBQ Datasets: https://github.com/nyu-mll/BBQ
