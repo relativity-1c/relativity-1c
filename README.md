@@ -6,3 +6,19 @@ Our work leverages machine learning models to interpret and assess legal languag
 # Related Datasets
 - [Amazon Generalized Fairness Metrics](https://github.com/amazon-science/generalized-fairness-metrics/tree/main)
 - [NYQ BBQ Datasets](https://github.com/nyu-mll/BBQ)
+
+## Project Description
+
+# Introduction: 
+AI legal software is revolutionizing the analysis of evidence in cases involving protected social classes by enabling efficient bias detection and sentiment analysis. These tools use advanced natural language processing (NLP) and machine learning techniques to identify discriminatory language, uncover implicit or explicit biases, and gauge emotional tones within documents or communications. They have the ability to enhance objectivity and accuracy by detecting patterns of prejudice and hostile sentiment that might otherwise go unnoticed, helping legal professionals build stronger, evidence-based cases. While offering significant advantages in efficiency and scalability, AI must be ethically implemented to avoid perpetuating biases, ensuring that its findings are transparent and aligned with the context of the evidence. This integration promotes fairness and strengthens the pursuit of justice for individuals from protected groups.
+
+# Formal Statement:
+We as Relativity 1C are examining a multitude of datasets, such as the Amazon Generalized Fairness Dataset, to train and create a model that performs sentiment analysis and bias assessment of ingested sentences. Sentiment analysis is the use of natural language processing (NLP) and machine learning techniques to analyze and determine the emotional tone, attitude, or sentiment expressed in text, such as positive, negative, or neutral. It helps identify opinions, emotions, and biases in written or spoken language, and it can ultimately be used to filter through evidence for legal teams. 
+
+# Datasets we looked at:
+Amazon General Fairness Dataset
+NYU BBQ Dataset
+Twitter Sentiment Analysis Dataset
+
+# Our Applications:
+We developed a sentiment analysis model designed to assess bias by analyzing text and providing key performance metrics, including precision, F1 score, and sentiment strength scores. The model was trained using a labeled dataset to ensure it could accurately classify text as positive, negative, or neutral while identifying subtle nuances in tone. To evaluate its effectiveness, we incorporated a myriad of score calculations and metrics, ensuring it performed reliably in detecting bias within communications or documents. Additionally, we created a change of venue model that analyzed the linguistic and contextual features of evidence to assess factors influencing venue bias. This model helped quantify the likelihood of prejudice in specific jurisdictions, providing a comprehensive approach to bias assessment and decision-making.
