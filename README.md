@@ -16,9 +16,9 @@ AI legal software is revolutionizing the analysis of evidence in cases involving
 We as Relativity 1C are examining a multitude of datasets, such as the Amazon Generalized Fairness Dataset, to train and create a model that performs sentiment analysis and bias assessment of ingested sentences. Sentiment analysis is the use of natural language processing (NLP) and machine learning techniques to analyze and determine the emotional tone, attitude, or sentiment expressed in text, such as positive, negative, or neutral. It helps identify opinions, emotions, and biases in written or spoken language, and it can ultimately be used to filter through evidence for legal teams. 
 
 # Datasets we looked at:
-Amazon General Fairness Dataset
-NYU BBQ Dataset
-Twitter Sentiment Analysis Dataset
+- [Amazon Generalized Fairness Metrics](https://github.com/amazon-science/generalized-fairness-metrics/tree/main)
+- [NYQ BBQ Datasets](https://github.com/nyu-mll/BBQ)
+- [Twitter Sentiment Analysis Dataset] (https://www.kaggle.com/datasets/abhi8923shriv/sentiment-analysis-dataset/data)
 
 # Our Applications:
 We developed a sentiment analysis model designed to assess bias by analyzing text and providing key performance metrics, including precision, F1 score, and sentiment strength scores. The model was trained using a labeled dataset to ensure it could accurately classify text as positive, negative, or neutral while identifying subtle nuances in tone. To evaluate its effectiveness, we incorporated a myriad of score calculations and metrics, ensuring it performed reliably in detecting bias within communications or documents. Additionally, we created a change of venue model that analyzed the linguistic and contextual features of evidence to assess factors influencing venue bias. This model helped quantify the likelihood of prejudice in specific jurisdictions, providing a comprehensive approach to bias assessment and decision-making.
