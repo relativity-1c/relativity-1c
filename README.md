@@ -18,7 +18,7 @@ We as Relativity 1C are examining a multitude of datasets, such as the Amazon Ge
 # Datasets we looked at:
 - [Amazon Generalized Fairness Metrics](https://github.com/amazon-science/generalized-fairness-metrics/tree/main)
 - [NYQ BBQ Datasets](https://github.com/nyu-mll/BBQ)
-- [Twitter Sentiment Analysis Dataset] (https://www.kaggle.com/datasets/abhi8923shriv/sentiment-analysis-dataset/data)
+- [Twitter Sentiment Analysis Dataset](https://www.kaggle.com/datasets/abhi8923shriv/sentiment-analysis-dataset/data)
 
 # Our Applications:
 We developed a sentiment analysis model designed to assess bias by analyzing text and providing key performance metrics, including precision, F1 score, and sentiment strength scores. The model was trained using a labeled dataset to ensure it could accurately classify text as positive, negative, or neutral while identifying subtle nuances in tone. To evaluate its effectiveness, we incorporated a myriad of score calculations and metrics, ensuring it performed reliably in detecting bias within communications or documents. Additionally, we created a change of venue model that analyzed the linguistic and contextual features of evidence to assess factors influencing venue bias. This model helped quantify the likelihood of prejudice in specific jurisdictions, providing a comprehensive approach to bias assessment and decision-making.
